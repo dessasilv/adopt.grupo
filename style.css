@@ -36,9 +36,12 @@ input{
     margin-left: center;
     align-items: center;
     ;
+    
 
 
 }
+
+
 
 .cadastro{
     background-color: #F4B97A;
@@ -70,4 +73,17 @@ a{
 a:hover{
     
     color: #787833;
+}
+.explicacao{
+    float: right;
+    width: 45%;
+}
+.imagens{
+    
+    margin-top: 10px;
+    text-align: center;  
+}
+.texto{
+    margin-right: 5px;
+    margin-top: 80px;
 }
